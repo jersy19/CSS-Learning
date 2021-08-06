@@ -1,0 +1,29 @@
+h1 {
+    color: #0170FF;
+
+}
+
+a {
+    color: #FF0101;
+}
+
+li {
+    color: blue;
+}
+
+.content {
+   
+}
+
+.active {
+    color: aqua;
+}
+
+.footer {
+    align-content: center;
+    padding: 20px;
+    margin: 10px;
+    background-color: #424EDC;
+
+
+}
